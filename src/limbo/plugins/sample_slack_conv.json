@@ -1,0 +1,90 @@
+{
+	"ok": true,
+	"latest": "1358547726.000014",
+	"messages": [{
+			"type": "message",
+			"ts": "1358546515.000003",
+			"user": "Antonia Landi",
+			"text": "@yoav.pasovsky I still haven’t gotten a clear answer from you about what to expect from the teacher videos story that’s currently in the v1.2.3 epic. Is the expectation that this will be included in v1.2.3? I have been asking you this question since Thursday.ello"
+		},
+		{
+			"type": "message",
+			"ts": "1358546515.000004",
+			"user": "Yoav Pasovsky",
+			"text": "@antonia: please communicate directly with @adamgries about android, as he's been leading that effort.",
+			"is_starred": true,
+			"reactions": [{
+					"name": "space_invader",
+					"count": 2,
+					"users": ["Antonia Landi", "Yoav Pasovsky"]
+				},
+				{
+					"name": "sweet_potato",
+					"count": 1,
+					"users": ["Adam Gries"]
+				}
+			]
+		},
+		{
+			"type": "message",
+			"ts": "1358546515.000005",
+			"user": "Antonia Landi",
+			"text": "@adamgries Is your expectation that the teacher intro videos are included in the v1.2.3 release?"
+		},
+		{
+			"type": "message",
+			"ts": "1358546515.000006",
+			"user": "Adam Gries",
+			"text": "We can punt it if necessary so in other words if not done we release 1.2.3 without it (edited) I do need to hear back from google regarding feature and want to give them another day or two"
+		},
+		{
+			"type": "message",
+			"ts": "1358546515.000007",
+			"user": "Antonia Landi",
+			"text": "@danes Can the teacher videos story be completed for v1.2.3? Keep in mind that the deadline is EOD today, but based on what @adamgries wrote above we may extend it?"
+		},
+		{
+			"type": "message",
+			"ts": "1358546515.000008",
+			"user": "Adam Gries",
+			"text": "@antonia last that was spoken about this, I was waiting on an answer from @yoav.pasovsky regarding whether somebody non technical could change the file names (which is what would fix the situation). @yoav.pasovsky ?"
+		},
+		{
+			"type": "message",
+			"ts": "1358546515.000009",
+			"user": "Adam Gries",
+			"text": "If a non technical person can do it, @antonia please coordinate that. If not, we will punt it."
+		},
+		{
+			"type": "message",
+			"ts": "1358546515.000010",
+			"user": "Dane Šoba",
+			"text": "@antonia It needs a script to change server-side urls for the videos which is not a trivial amount of work. Also I've previously pointed out that there still might be issues on the clientside with the various parts of the UI. The amount and type of work is such that it can't be done by a non-technical person, and it's not doable by EOD today."
+		},
+		{
+			"type": "message",
+			"ts": "1358546515.000011",
+			"user": "Antonia Landi",
+			"text": "@danes Thanks for your explanation. @adamgries @yoav.pasovsky Moving the story to v1.2.4"
+		},
+		{
+			"type": "message",
+			"ts": "1358546515.000012",
+			"user": "Antonia Landi",
+			"text": "@michiaki This is what the OKpanda banner looks like on the play store when the user is in landscape mode - Can we change it?"
+		},
+		{
+			"type": "message",
+			"ts": "1358546515.000013",
+			"user": "Antonia Landi",
+			"text": "@adamgries @danes Core flows for v1.2.3 were successfully completed in both landscape and portrait mode - no blockers have been found."
+		},
+		{
+			"type": "message",
+			"ts": "1358546515.000014",
+			"user": "Giulia Tarditi",
+			"text": "@antonia what do you mean by Deliver? Work is finished on my end on this story https://www.pivotaltracker.com/n/projects/1115646/stories/143378097 I posted a comment on the 21st to confirm that work was done on my end"
+		}
+	],
+	"has_more": false
+}
