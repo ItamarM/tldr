@@ -1,4 +1,4 @@
-# Automatic channel summarizer bot for Slack
+# [OUTDATED] Automatic channel summarizer bot for Slack
 
 A simple slack chat bot to summarize a channel content for you (TL;DR).
 
